@@ -1,0 +1,15 @@
+import re
+
+#Read input file
+with open("input.txt", "r") as infile:
+    text = infile.read()
+
+#Extract all email addresses using regex
+emails = re.findall(r'[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+', text)
+
+#Save emails to a new file ('emails.txt')
+with open("emails.txt", "w") as outfile:
+    for email in emails:
+        outfile.write(email + "\n")
+
+print("All email addresses have been extracted and saved to 'emails.txt' file.")
