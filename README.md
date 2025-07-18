@@ -18,5 +18,3 @@ This Python script extracts all email addresses from a .txt file and writes them
 - email_extractor.py – Main script
 - input.txt – Sample input file
 - emails.txt – Output file
-
-Completed for the **CodeAlpha Internship**
