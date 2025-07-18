@@ -1,0 +1,13 @@
+Hello Sabahat,
+
+Please find below the contact details of our team members:
+
+- Ali Raza: ali.raza635@gmail.com  
+- Fatima: fatima_22@yahoo.com  
+- Technical Support: support@codealpha.tech  
+- HR: developers.team@company.org
+
+Make sure to CC the final report to project_lead@mail.net and cc.manager@office.com.
+
+Regards,  
+CodeAlpha Team
